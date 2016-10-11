@@ -1,8 +1,8 @@
-# Events Consolidator [![Build Status](https://travis-ci.org/mariusbutuc/events-consolidator.svg?branch=master)](https://travis-ci.org/mariusbutuc/events-consolidator)
+# Events Consolidator [![Build Status](https://travis-ci.org/mariusbutuc/events-consolidator.svg?branch=proposed-solution)](https://travis-ci.org/mariusbutuc/events-consolidator)
 
 Reduce date-based events
 
-## Problem description:
+## Problem description
 
 Here is an example of an array of date-based events:
 
@@ -27,3 +27,7 @@ output = [
 ```
 
 When writing your solution please expect that the input data above is just an example. Your class and tests should handle a variety of scenarios and input data. Quality is important, so please keep that in mind when solving the problem.
+
+## Lesson ([re-](https://twitter.com/mariusbutuc/status/768793133790273537))learnt
+
+> First, solve the problem. Then, write the code.
